@@ -13,6 +13,8 @@
 
 {{test}}
 
+TEST LOCAL
+
 </div>
 
 </body>
