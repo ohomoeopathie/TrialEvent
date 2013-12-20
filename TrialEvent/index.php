@@ -1,5 +1,20 @@
-<?php
+<!doctype html>
+<html ng-app="TrialModule">
+  <head>
+	<script src="js/angular.min.js"></script>
+	<script src="js/trial.js"></script>
+   
+  </head>
+<body>
 
-echo "hello World";
+<div ng-controller="TrialCtrl">	
 
-?>
+<a href="" data-ng-click="testfunk()">Testfunk</a>
+
+{{test}}
+
+
+</div>
+
+</body>
+</html>
