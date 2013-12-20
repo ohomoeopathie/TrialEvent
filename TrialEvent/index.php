@@ -12,9 +12,6 @@
 <a href="" data-ng-click="testfunk()">Testfunk</a>
 
 {{test}}
-Update GIT Test
-
-Update Local Test
 
 </div>
 
