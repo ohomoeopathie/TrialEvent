@@ -6,7 +6,6 @@ myApp.controller('TrialCtrl', ['$scope', '$http', function($scope, $http){
 	$scope.test ="Hello World";
 	
 	
-
 	
 	{ //-------------------------------- EVENT
 	$scope.events = [];
