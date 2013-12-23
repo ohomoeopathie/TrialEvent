@@ -15,6 +15,11 @@
 
 TEST LOCAL
 
+<ul data-ng-repeat="s in starter">
+	<li>{{s.nachname}} {{s.vorname}}</li>
+</ul>
+	
+
 </div>
 
 </body>
